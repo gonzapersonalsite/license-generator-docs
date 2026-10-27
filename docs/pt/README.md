@@ -42,4 +42,4 @@ As chaves, o histórico, as configurações e um log de diagnóstico ficam em um
 
 O License Generator é software proprietário sujeito ao [EULA](../../LICENSE) (em inglês). As licenças geradas e as chaves públicas podem ser distribuídas com seus próprios aplicativos comerciais ou gratuitos nessas condições, e os exemplos de integração de `docs/examples` podem ser copiados para eles.
 
-Desenvolvido por Gonzalo Martínez García · gonzalo.dev
+Desenvolvido por Gonzalo Martínez García · [gonzaloapps.es](https://gonzaloapps.es)

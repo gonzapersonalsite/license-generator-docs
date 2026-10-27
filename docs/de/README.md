@@ -42,4 +42,4 @@ Schlüssel, Verlauf, Einstellungen und ein Diagnoseprotokoll liegen in einem Dat
 
 License Generator ist proprietäre Software gemäß der [EULA](../../LICENSE) (auf Englisch). Generierte Lizenzen und öffentliche Schlüssel dürfen unter diesen Bedingungen mit Ihren eigenen kommerziellen oder kostenlosen Anwendungen weitergegeben werden, und die Integrationsbeispiele unter `docs/examples` dürfen in sie kopiert werden.
 
-Entwickelt von Gonzalo Martínez García · gonzalo.dev
+Entwickelt von Gonzalo Martínez García · [gonzaloapps.es](https://gonzaloapps.es)

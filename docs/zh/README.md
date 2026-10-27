@@ -42,4 +42,4 @@ UserDefined 是已签名的文本，不是可执行的规则，也不是内置�
 
 License Generator 是依据 [EULA](../../LICENSE)（英文）授权的专有软件。在这些条款下，生成的许可证和公钥可以随您自己的商业或免费应用分发，`docs/examples` 下的集成示例也可以复制到这些应用中。
 
-由 Gonzalo Martínez García 开发 · gonzalo.dev
+由 Gonzalo Martínez García 开发 · [gonzaloapps.es](https://gonzaloapps.es)
