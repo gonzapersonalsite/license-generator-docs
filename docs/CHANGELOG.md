@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.2.6 — 2026-10-27
+
+- Name the publisher Gonzalo Martínez García in the Store package and in the
+  executable's properties.
+- Reword the support section in Settings.
+
+Nothing else changes: keys, licenses, history, settings, license formats and the
+integration examples are the same as in 1.2.5.
+
 ## 1.2.5 — 2026-10-17
 
 - Open the license agreement and the privacy policy from Settings at their new
