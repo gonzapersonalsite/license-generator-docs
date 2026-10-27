@@ -42,4 +42,4 @@ Keys, history, settings and a diagnostic log live in a data folder of your opera
 
 License Generator is proprietary software under the [EULA](LICENSE). Generated licenses and public keys can be distributed with your own commercial or free applications under those terms, and the integration examples under `docs/examples` can be copied into them.
 
-Developed by Gonzalo Martínez García · gonzalo.dev
+Developed by Gonzalo Martínez García · [gonzaloapps.es](https://gonzaloapps.es)
