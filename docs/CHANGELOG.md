@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.2.7 — 2026-10-29
+
+- Complete the third-party notices shown in Settings and shipped beside the
+  executables and inside the Store package. They now also reproduce the notices
+  of the code from other projects that the Avalonia packages include, as
+  Avalonia's own NOTICE file lists them, and the Microsoft Public License notice
+  of the DataGrid code ported from the Silverlight Toolkit.
+- This version is licensed under the license agreement dated 2026-10-29,
+  published with the privacy policy of the same date. The application is free
+  and will stay free in every version; the licence is worldwide and perpetual
+  and ends only on a breach of the agreement; open-source components keep the
+  rights their own licences give; and the agreement states plainly that the
+  application is a personal project with no commitment to maintain it.
+
+Nothing else changes: keys, licenses, history, settings, license formats and the
+integration examples are the same as in 1.2.6.
+
 ## 1.2.6 — 2026-10-27
 
 - Name the publisher Gonzalo Martínez García in the Store package and in the
