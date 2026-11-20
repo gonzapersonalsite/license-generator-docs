@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.2.8 — 2026-11-20
+
+- Move the application to Avalonia 12, the current release of its interface
+  library, and with it to SkiaSharp 3. The interface looks and works as before.
+- On Linux, screen readers such as Orca can now read the application, which
+  announces itself as License Generator.
+- Update the third-party notices to the components this version ships.
+
+Nothing else changes: keys, licenses, history, settings, license formats and the
+integration examples are the same as in 1.2.7.
+
 ## 1.2.7 — 2026-10-29
 
 - Complete the third-party notices shown in Settings and shipped beside the
